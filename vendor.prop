@@ -7,3 +7,6 @@ vendor.camera.aux.packagelist=org.lineageos.aperture
 
 # GFX
 ro.config.avoid_gfx_accel=true
+
+#Rendering
+ro.hwui.render_ahead=20
