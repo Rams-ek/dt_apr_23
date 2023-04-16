@@ -10,3 +10,6 @@ ro.config.avoid_gfx_accel=true
 
 #Rendering
 ro.hwui.render_ahead=20
+
+#cache
+debug.sf.disable_client_composition_cache=1
